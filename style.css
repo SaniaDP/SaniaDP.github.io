@@ -1,0 +1,26 @@
+
+body {
+    
+background:rgb:3, 66, 57;
+}
+p {
+  color:rgb:3, 66, 57;;
+    font-family: cursive;
+}
+h2 {
+  font-weight: bold;
+  font-family: fantasy;
+    color: darkred;
+}
+h1{font-family: fantasy
+    color: turquoise;
+}
+img{
+    align-self: center;
+}
+extracurricular.html{
+ background:rgb:3, 66, 57; 
+ font-weight: bold;
+ font-family: fantasy;
+ color: darkred;
+}
